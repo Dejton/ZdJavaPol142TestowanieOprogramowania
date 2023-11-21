@@ -1,6 +1,7 @@
 package pl.sdacademy.unit.test.exercises.day1.unit.task4;
 
 public class Person {
+
     private String name;
     private String surname;
     private int age;
